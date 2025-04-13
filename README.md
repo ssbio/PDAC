@@ -1,4 +1,4 @@
-# PDAC Metabolic Modeling & Biomarker Discovery Repository
+# PDAC Metabolic Modeling Repository
 
 ## Overview
 This repository contains computational tools and metabolic models developed for the study *"GAN-Enhanced Machine Learning and Metabolic Modeling Identify Reprogramming Signatures and Vulnerabilities in Pancreatic Cancer"*. The framework integrates:
